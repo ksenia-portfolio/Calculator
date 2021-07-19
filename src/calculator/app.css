@@ -1,0 +1,19 @@
+.background{
+    -fx-background-color: #2f2a34;
+}
+.input{
+    -fx-background-color: #2f2a34;
+    -fx-text-fill: white;
+}
+.digit-button{
+    -fx-background-color: #504e54;
+    -fx-text-fill: white;
+}
+.operator-button{
+    -fx-background-color: #e98d32;
+    -fx-text-fill: white;
+}
+.top-button{
+    -fx-background-color: #3a383c;
+    -fx-text-fill: white;
+}
